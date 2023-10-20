@@ -10,10 +10,12 @@
 #include <cstdlib>
 #include <ctime>
 #include <deque>
+#include <forward_list>
 #include <fstream>
 #include <iomanip>
 #include <ios>
 #include <iostream>
+#include <list>
 #include <map>
 #include <numeric>
 #include <queue>
